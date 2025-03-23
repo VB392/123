@@ -2,6 +2,6 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <template>I am sorry, I do not understand your response. To start over please type "begin". Otherwise, please type "help".</template>
   </category>
 </aiml>
